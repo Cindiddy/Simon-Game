@@ -4,7 +4,7 @@ The object of the game is to repeat a series of random tile clicks created by th
 ## Start
 You can download all the files to your local, and open index.html in your default browser. Or just simply click the link https://cindiddy.github.io/Simon-Game/
 
-### Screenshots
+## Screenshots
 ###### 1) Press any key to start Page
 <img src="imgs/1.png" width=600>
 

@@ -6,8 +6,10 @@ You can download all the files to your local, and open index.html in your defaul
 
 ### Screenshots
 ###### 1) Press any key to start Page
-<img src="imgs/1.png">
+<img src="imgs/1.png" width=600>
+
 ###### 2) During the game page
-<img src="imgs/2.png">
+<img src="imgs/2.png" width=600>
+
 ###### 3) Game over page
-<img src="imgs/4.png">
+<img src="imgs/4.png" width=600>
